@@ -1,6 +1,6 @@
 {
   "video_button": {
-    "active": false,
+    "active": true,
     "label": "KPOP Demon Hunters"
   },
   "videos": [
